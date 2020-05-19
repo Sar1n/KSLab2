@@ -1,0 +1,6 @@
+C:\data\knu\6 semestr\KompSys\Lab2\Lab2\bin\Debug\Lab2.exe.config
+C:\data\knu\6 semestr\KompSys\Lab2\Lab2\bin\Debug\Lab2.exe
+C:\data\knu\6 semestr\KompSys\Lab2\Lab2\bin\Debug\Lab2.pdb
+C:\data\knu\6 semestr\KompSys\Lab2\Lab2\obj\Debug\Task1.csprojAssemblyReference.cache
+C:\data\knu\6 semestr\KompSys\Lab2\Lab2\obj\Debug\Lab2.exe
+C:\data\knu\6 semestr\KompSys\Lab2\Lab2\obj\Debug\Lab2.pdb
